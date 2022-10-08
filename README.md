@@ -4,7 +4,7 @@
 
 ### theory
 
-- [ ] [Luo, Understanding Diffusion Models: A Unified Perspective, 2022](https://arxiv.org/abs/2208.11970))
+- [ ] [Luo, Understanding Diffusion Models: A Unified Perspective, 2022](https://arxiv.org/abs/2208.11970)
 
 ### survey
 
@@ -12,7 +12,7 @@
 
 ### application
 
-- [ ] [Rombach et al., High-Resolution Image Synthesis with Latent Diffusion Models, 2022](https://arxiv.org/abs/2112.10752))
+- [ ] [Rombach et al., High-Resolution Image Synthesis with Latent Diffusion Models, 2022](https://arxiv.org/abs/2112.10752)
 - [ ] [Poole et al., DreamFusion: Text-to-3D using 2D Diffusion, 2022](https://arxiv.org/abs/2209.14988)
 
 ## repos
