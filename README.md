@@ -4,7 +4,7 @@
 
 ### theory
 
-- [ ] [Luo, Understanding Diffusion Models: A Unified Perspective, 2022](https://arxiv.org/abs/2208.11970)
+- [x] [Luo, Understanding Diffusion Models: A Unified Perspective, 2022](https://arxiv.org/abs/2208.11970)
 
 ### survey
 
